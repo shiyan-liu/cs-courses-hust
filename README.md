@@ -1,7 +1,12 @@
-# HUST 仓库目录
+# CS cource resources @ HUST
+[https://shiyan-liu.github.io/resources](https://shiyan-liu.github.io/resources)
+
+(coming soon...)
+
+<!-- # HUST 仓库目录
 
 ## 2024 秋季学期
-<!-- - [hust-os-exp](https://github.com/cnint0627/hust-os-exp) - 操作系统实验  -->
+<!-- - [hust-os-exp](https://github.com/cnint0627/hust-os-exp) - 操作系统实验 
 - [hust-fp](https://github.com/cnint0627/hust-fp) - 函数式编程原理 [![](https://img.shields.io/badge/-Standard_ML-lightgrey)](https://github.com/cnint0627/hust-fp)
 - [hust-computer-network-exp](https://github.com/cnint0627/hust-computer-network-exp) - 计算机网络实验 [![](https://img.shields.io/badge/-C++-blue)](https://github.com/cnint0627/hust-computer-network-exp)
 - [hust-bd-management-exp](https://github.com/cnint0627/hust-bd-management-exp) - 大数据管理实验 [![](https://img.shields.io/badge/-HTML-orange)](https://github.com/cnint0627/hust-bd-management-exp)
@@ -26,4 +31,4 @@
 
 ## 其他项目
 - [hust_tencent_assignment](https://github.com/cnint0627/hust_tencent_assignment) - 腾讯客户端企业课：基于端云一体化的运动记录平台 [![](https://img.shields.io/badge/-TypeScript-green)](https://github.com/cnint0627/hust_tencent_assignment)
-- [hust-kingsoft-frontend](https://github.com/cnint0627/hust-kingsoft-frontend) - 金山前端企业课 [![](https://img.shields.io/badge/-TypeScript-green)](https://github.com/cnint0627/hust-kingsoft-frontend)
+- [hust-kingsoft-frontend](https://github.com/cnint0627/hust-kingsoft-frontend) - 金山前端企业课 [![](https://img.shields.io/badge/-TypeScript-green)](https://github.com/cnint0627/hust-kingsoft-frontend) -->
