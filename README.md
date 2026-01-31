@@ -1,5 +1,5 @@
 # CS cource resources @ HUST
-[https://shiyan-liu.github.io/resources](https://shiyan-liu.github.io/resources) (coming soon...)
+[https://shiyanliu.com/resources](https://shiyanliu.com/resources) (coming soon...)
 
 Contributions are welcome! Please send materials to [shyl@hust.edu.cn](mailto:shyl@hust.edu.cn).
 
